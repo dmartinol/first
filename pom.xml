@@ -59,7 +59,7 @@
   <distributionManagement>
     <repository>
       <id>rhpam</id>
-      <url>http://redhat-repo.dev-temenos-cloud.net/repository/maven-snapshots</url>
+      <url>https://redhat-repo.dev-temenos-cloud.net/repository/maven-snapshots</url>
     </repository>
   </distributionManagement>
 </project>
