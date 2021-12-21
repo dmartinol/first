@@ -4,7 +4,7 @@
       <include>true</include>
       <metadata>
         <id>rhpam</id>
-        <url>https://redhat-repo.dev-temenos-cloud.net/repository/rhpam</url>
+        <url>https://redhat-repo.dev-temenos-cloud.net/repository/maven-snapshots</url>
         <source>DISTRIBUTION_MANAGEMENT</source>
       </metadata>
     </repository>
