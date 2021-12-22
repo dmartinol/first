@@ -56,10 +56,4 @@
       </plugin>
     </plugins>
   </build>
-  <distributionManagement>
-    <repository>
-      <id>rhpam</id>
-      <url>https://redhat-repo.dev-temenos-cloud.net/repository/rhpam/</url>
-    </repository>
-  </distributionManagement>
 </project>
