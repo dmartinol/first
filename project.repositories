@@ -24,5 +24,13 @@
         <source>LOCAL</source>
       </metadata>
     </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>rhpam</id>
+        <url>https://redhat-repo.dev-temenos-cloud.net/repository/rhpam/</url>
+        <source>DISTRIBUTION_MANAGEMENT</source>
+      </metadata>
+    </repository>
   </repositories>
 </project-repositories>
